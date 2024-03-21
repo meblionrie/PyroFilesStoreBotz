@@ -30,7 +30,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @noobpirate
 
-👥 **Support Group:** [Linux Repositories](https://t.me/Blionriechats)
+👥 **Support Group:** [Linux Repositories](https://t.me/blionriechats)
 
 📢 **Updates Channel:** [Discovery Projects](https://t.me/Blionriebin)
 """
