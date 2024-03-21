@@ -26,7 +26,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📝 **Language:** [Python3](https://www.python.org)
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org
+📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
 
 🧑🏻‍💻 **Developer:** @noobpirate
 
